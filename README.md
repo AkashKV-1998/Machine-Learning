@@ -1,5 +1,5 @@
 The Games folder include "Tower of Hanoi" python 3 code 
-and code of Machine learning such as:
+and Machine learning includes:
 
 1. Expectation Maximization 
 2. Linear Regression 
